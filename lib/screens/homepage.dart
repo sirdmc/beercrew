@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hero/widgets/homebody.dart';
+import 'package:beercrew/widgets/homebody.dart';
 
 class HomePage extends StatelessWidget {
   @override
