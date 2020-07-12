@@ -1,8 +1,10 @@
 class Beer {
 
-  final String dir;
-  final String food;
-  final String price;
+  String id;
+  String name;
+  String origin;
+  String type;
 
-  Beer({this.dir, this.food, this.price});
+  Beer({this.id, this.name, this.origin, this.type});
+
 }
