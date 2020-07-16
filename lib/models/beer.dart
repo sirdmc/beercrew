@@ -4,7 +4,8 @@ class Beer {
   String name;
   String origin;
   String type;
+  String url;
 
-  Beer({this.id, this.name, this.origin, this.type});
+  Beer({this.id, this.name, this.origin, this.type, this.url});
 
 }
